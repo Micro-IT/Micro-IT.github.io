@@ -7,7 +7,7 @@ comments: false
 ---
     
 
-
+<html>
 <body>
 	<header>
 		<h1>Responsive Vertical Timeline</h1>
@@ -92,3 +92,4 @@ comments: false
 		</div> <!-- cd-timeline-block -->
 	</section> <!-- cd-timeline -->
 </body>
+</html>
