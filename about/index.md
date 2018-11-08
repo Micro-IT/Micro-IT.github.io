@@ -8,7 +8,7 @@ comments: false
     
 
 <html>
-    </style>
+</style>
 </head>
 <body>
 <div class="container">
