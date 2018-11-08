@@ -43,7 +43,7 @@ body {
 
 /* Container around content */
 .container {
-    padding: 10px 40px;
+    padding: 5px 20px;
     position: relative;
     background-color: inherit;
     width: 50%;
