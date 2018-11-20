@@ -1,6 +1,6 @@
 ---
 layout: research
-title: Research Themes
+title: Research
 excerpt: "A List of Projects"
 comments: false
 ---
