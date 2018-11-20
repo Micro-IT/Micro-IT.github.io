@@ -1,3 +1,3 @@
 # Micro-IT.github.io
 
-personal site
+This is I-Ting's personal site
