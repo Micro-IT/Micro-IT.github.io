@@ -4,7 +4,7 @@ bio:                'Bioinformatics ∩ Microbial Populations ∩ Evolutionary D
 description:        "Welcome to my site!"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.jpeg'
+logo:               'assets/img/avatar.jpeg'
 background:         'assets/img/blackwhite.jpeg'
 tiled_bg:           false   
 locale:             en_US
