@@ -8,7 +8,7 @@ comments: false
     
 ### Under construction
 
-This is an amalgamation of my (now retired) personal wordpress site and a planned new academic website. It is currently still being built and tweaked, but feel free to browse. 
+Welcome to my site! This is an amalgamation of my (now retired) personal wordpress site and a planned new academic website. It is currently still being built and tweaked, but feel free to browse. 
 
 ## About me
 
